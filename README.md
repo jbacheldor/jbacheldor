@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hi I'm Jess 👋
+
+I started programming in college around 2016 and fell into front-end design, specficially for websites with a tech stack of React and JS/TS, after a rotational program from 2020-2022. Currently I'm at batch at the [Recurse Center](https://www.recurse.com/) where I'm exploring IOS app development and furthering my knowledge in building fullstack web applications.
+
+- Currently learning: [Sever-side websites](https://github.com/jbacheldor/vegan-directory) through Next.JS, fullstack website development, and [ios app development](https://github.com/jbacheldor/LanguageTimer).
+- Interested in: building component libraries (potentially through storybook), making interactive websites that show complex data visualizations, and language learning apps such as Duolingo and LingoDeer.
 
 <!--
 **jbacheldor/jbacheldor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+x
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
